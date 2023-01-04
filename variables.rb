@@ -14,3 +14,8 @@ is_parent = true
 is_married = true
 is_pregnant = false
 
+# Reassigning string values
+
+name = "Matthew"
+email = "mattleahy@activerelease.com"
+state = "Maine"

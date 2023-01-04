@@ -14,8 +14,15 @@ is_parent = true
 is_married = true
 is_pregnant = false
 
+puts name
+puts age
+
 # Reassigning string values
 
 name = "Matthew"
 email = "mattleahy@activerelease.com"
 state = "Maine"
+
+puts name
+puts number_of_pets
+
